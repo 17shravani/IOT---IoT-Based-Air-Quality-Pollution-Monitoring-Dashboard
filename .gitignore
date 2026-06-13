@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+active_env/
+
+# Data logs and output charts (generated dynamically)
+data/sensor_logs.csv
+outputs/*.png
+outputs/*.jpg
+reports/*.txt
+reports/*.pdf
+!reports/README.md
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Local configuration files
+.env
+.env.local
