@@ -1,4 +1,5 @@
 # AETHER Network: Autonomous ESG & Environmental Telemetry Orchestrator
+<img width="1917" height="887" alt="Screenshot 2026-06-13 182330" src="https://github.com/user-attachments/assets/d0389db1-8aae-457a-974d-785efd184dc2" />
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Streamlit App](https://static.streamlit.io/badgebar.svg)](http://localhost:8501)
